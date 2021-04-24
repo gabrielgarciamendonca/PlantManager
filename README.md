@@ -65,7 +65,7 @@
 #### Clonando o repositório
 
 ```bash
-git clone git@github.com:gabrielgarciamendonca/Nubank-Animated.git
+git clone git@github.com:gabrielgarciamendonca/PlantManager.git
 ```
 
 #### Entrando no diretório do projeto
