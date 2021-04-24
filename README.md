@@ -4,7 +4,7 @@
 <p>Este é um projeto para demostrar tudo que aprendi na semana da NLW, isso envolve notificações, gestos de deslizar elementos na tela, tratamentos de datas e ótimas dicas de UX para replicar as telas do figma, além disso, revemos conceitos importantes sobre o React Native, refatoração de código, e ótimas dicas de como utilizar o typescript para desenvolver esse incrivel app, ou qualquer outro app que possa vir a ser desenvolvido. Nesse projeto, foi usado uma ótima ferramenta de desenvolvimento, chamada expo, que agiliza processos e transforma o prazer em felicidade na hora de desenvolver. É incrivel como é fácil e simples de usar o </p>
 
 <div align="center">
-   <img src="https://github.com/gabrielgarciamendonca/Nubank-Animated/blob/main/NubankDemostrate.gif" width="250" />
+   <img src="https://github.com/gabrielgarciamendonca/PlantManager/blob/main/PlantManageExample.gif" width="250" />
 </div>
 
 ## Desenvolvido por: 
